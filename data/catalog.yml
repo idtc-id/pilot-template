@@ -1,0 +1,14 @@
+# Katalog data pilot — satu entri per dataset.
+# kelas: terbuka | terbatas | rahasia
+- id: contoh-lidar-2025
+  nama: "[Contoh] Point cloud LiDAR Kota X"
+  pemilik: "Bappeda Kota X"
+  kelas: terbatas
+  lisensi: "Izin terbatas untuk pilot — surat no. ..."
+  format: LAZ
+  crs: "EPSG:32750"
+  tahun: 2025
+  ukuran: "120 GB"
+  lokasi: "Storage mitra — hubungi PIC data"
+  pic: "Nama PIC"
+  catatan: "Hapus entri contoh ini"

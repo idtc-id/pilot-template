@@ -1,0 +1,37 @@
+# Kredensial
+.env
+*.pem
+*.key
+
+# Data besar — simpan di storage, catat di data/catalog.yml
+*.las
+*.laz
+*.e57
+*.ply
+*.obj
+*.fbx
+*.slpk
+*.rvt
+*.nwd
+*.ifc
+*.tif
+*.tiff
+*.ecw
+*.jp2
+*.gdb/
+*.zip
+*.7z
+
+# Kecuali sampel kecil yang disengaja
+!data/sample/**
+
+# Lingkungan & editor
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
